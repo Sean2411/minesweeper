@@ -1,4 +1,5 @@
-**Please edit the file "minesweeper" to "minesweeper" first**
+**This a simple webpage mine sweeper game**
+Done by pure javascript
 
 Steps for using it
 1. Please open the "index.html" in your browser
